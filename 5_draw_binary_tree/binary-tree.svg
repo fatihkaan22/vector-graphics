@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width='2000.000000' height='500.000000' version='1.1' xmlns='http://www.w3.org/2000/svg'>
+<defs>
+	<clipPath id='resize'>
+	<rect x='0.000000' y='0.000000' width='2000.000000' height='500.000000'/>
+	</clipPath>
+</defs>
+	<line x1='222.222222' y1='325.000000' x2='117.647059' y2='425.000000' stroke='black'/>
+	<line x1='222.222222' y1='325.000000' x2='235.294118' y2='425.000000' stroke='black'/>
+	<line x1='400.000000' y1='225.000000' x2='222.222222' y2='325.000000' stroke='black'/>
+	<line x1='400.000000' y1='225.000000' x2='444.444444' y2='325.000000' stroke='black'/>
+	<line x1='444.444444' y1='325.000000' x2='352.941176' y2='425.000000' stroke='black'/>
+	<line x1='444.444444' y1='325.000000' x2='470.588235' y2='425.000000' stroke='black'/>
+	<line x1='666.666667' y1='125.000000' x2='400.000000' y2='225.000000' stroke='black'/>
+	<line x1='666.666667' y1='125.000000' x2='800.000000' y2='225.000000' stroke='black'/>
+	<line x1='800.000000' y1='225.000000' x2='666.666667' y2='325.000000' stroke='black'/>
+	<line x1='800.000000' y1='225.000000' x2='888.888889' y2='325.000000' stroke='black'/>
+	<line x1='888.888889' y1='325.000000' x2='941.176471' y2='425.000000' stroke='black'/>
+	<line x1='1000.000000' y1='25.000000' x2='666.666667' y2='125.000000' stroke='black'/>
+	<line x1='1000.000000' y1='25.000000' x2='1333.333333' y2='125.000000' stroke='black'/>
+	<line x1='1111.111111' y1='325.000000' x2='1058.823529' y2='425.000000' stroke='black'/>
+	<line x1='1200.000000' y1='225.000000' x2='1111.111111' y2='325.000000' stroke='black'/>
+	<line x1='1333.333333' y1='125.000000' x2='1200.000000' y2='225.000000' stroke='black'/>
+	<line x1='1333.333333' y1='125.000000' x2='1600.000000' y2='225.000000' stroke='black'/>
+	<line x1='1600.000000' y1='225.000000' x2='1777.777778' y2='325.000000' stroke='black'/>
+	<circle r='20' cx='117.647059' cy='425.000000' fill='white' stroke='black'/>
+	<text x='113.647059' y='430.000000' fill='black'>0</text>
+	<circle r='20' cx='222.222222' cy='325.000000' fill='white' stroke='black'/>
+	<text x='218.222222' y='330.000000' fill='black'>1</text>
+	<circle r='20' cx='235.294118' cy='425.000000' fill='white' stroke='black'/>
+	<text x='231.294118' y='430.000000' fill='black'>3</text>
+	<circle r='20' cx='400.000000' cy='225.000000' fill='white' stroke='black'/>
+	<text x='396.000000' y='230.000000' fill='black'>5</text>
+	<circle r='20' cx='352.941176' cy='425.000000' fill='white' stroke='black'/>
+	<text x='348.941176' y='430.000000' fill='black'>6</text>
+	<circle r='20' cx='444.444444' cy='325.000000' fill='white' stroke='black'/>
+	<text x='440.444444' y='330.000000' fill='black'>7</text>
+	<circle r='20' cx='470.588235' cy='425.000000' fill='white' stroke='black'/>
+	<text x='466.588235' y='430.000000' fill='black'>8</text>
+	<circle r='20' cx='666.666667' cy='125.000000' fill='white' stroke='black'/>
+	<text x='658.666667' y='130.000000' fill='black'>10</text>
+	<circle r='20' cx='666.666667' cy='325.000000' fill='white' stroke='black'/>
+	<text x='658.666667' y='330.000000' fill='black'>13</text>
+	<circle r='20' cx='800.000000' cy='225.000000' fill='white' stroke='black'/>
+	<text x='792.000000' y='230.000000' fill='black'>15</text>
+	<circle r='20' cx='888.888889' cy='325.000000' fill='white' stroke='black'/>
+	<text x='880.888889' y='330.000000' fill='black'>16</text>
+	<circle r='20' cx='941.176471' cy='425.000000' fill='white' stroke='black'/>
+	<text x='933.176471' y='430.000000' fill='black'>17</text>
+	<circle r='20' cx='1000.000000' cy='25.000000' fill='white' stroke='black'/>
+	<text x='992.000000' y='30.000000' fill='black'>20</text>
+	<circle r='20' cx='1058.823529' cy='425.000000' fill='white' stroke='black'/>
+	<text x='1050.823529' y='430.000000' fill='black'>23</text>
+	<circle r='20' cx='1111.111111' cy='325.000000' fill='white' stroke='black'/>
+	<text x='1103.111111' y='330.000000' fill='black'>24</text>
+	<circle r='20' cx='1200.000000' cy='225.000000' fill='white' stroke='black'/>
+	<text x='1192.000000' y='230.000000' fill='black'>25</text>
+	<circle r='20' cx='1333.333333' cy='125.000000' fill='white' stroke='black'/>
+	<text x='1325.333333' y='130.000000' fill='black'>30</text>
+	<circle r='20' cx='1600.000000' cy='225.000000' fill='white' stroke='black'/>
+	<text x='1592.000000' y='230.000000' fill='black'>35</text>
+	<circle r='20' cx='1777.777778' cy='325.000000' fill='white' stroke='black'/>
+	<text x='1766.777778' y='330.000000' fill='black'>999</text>
+</svg>
